@@ -135,3 +135,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+alias cd="echo 'tu que vas a cambiar de directorio, payaso??'"
